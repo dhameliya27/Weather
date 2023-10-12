@@ -1,0 +1,7 @@
+# cache for the external modules
+/weather/node_modules
+
+# dotenv environment variables file to store API key
+/weather/environment
+
+.env
